@@ -4,7 +4,7 @@ public class Main {
 
         System.out.println("Git är kul!");
 
-        //New Comment
+        //git no 7 test
 
     }
 }
