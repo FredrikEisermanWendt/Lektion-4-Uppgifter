@@ -4,7 +4,7 @@ public class Main {
 
         System.out.println("Git är kul!");
 
-        System.out.println("Kör");
+        //Kan man merga denna??
 
     }
 }
